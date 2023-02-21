@@ -1,0 +1,38 @@
+POST https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 HTTP/2.0
+content-length: 3249
+sec-ch-ua: "Chromium";v="104", " Not A;Brand";v="99", "Google Chrome";v="104"
+x-origin: https://www.youtube.com
+x-youtube-device: cbr=Chrome&cbrver=104.0.0.0&ceng=WebKit&cengver=537.36&cos=Windows&cosver=10.0&cplatform=DESKTOP
+x-youtube-page-label: youtube.desktop.web_20220815_01_RC00
+authorization: SAPISIDHASH 1660618613_0e1538b0e70ba8b7edbc549e707ba8cfc191722b
+sec-ch-ua-arch: "x86"
+x-youtube-page-cl: 467612698
+sec-ch-ua-platform-version: "10.0.0"
+x-youtube-utc-offset: 330
+x-goog-authuser: 0
+sec-ch-ua-full-version-list: "Chromium";v="104.0.5112.81", " Not A;Brand";v="99.0.0.0", "Google Chrome";v="104.0.5112.81"
+sec-ch-ua-model: 
+x-youtube-time-zone: Asia/Calcutta
+sec-ch-ua-platform: "Windows"
+sec-ch-ua-bitness: "64"
+sec-ch-ua-mobile: ?0
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+content-type: application/json
+x-youtube-client-name: 1
+sec-ch-ua-full-version: "104.0.5112.81"
+x-youtube-client-version: 2.20220815.01.00
+x-youtube-identity-token: QUFFLUhqbkxXSUl0aDlHNF9lZ3ZRbU1IR2RRMS1qald4d3w=
+x-goog-visitor-id: CgtsZ0RSM2VzRXZ5MCj49-uXBg%3D%3D
+x-youtube-ad-signals: dt=1660615672452&flash=0&frm&u_tz=330&u_his=4&u_h=864&u_w=1536&u_ah=824&u_aw=1536&u_cd=24&bc=31&bih=754&biw=1520&brdim=0%2C0%2C0%2C0%2C1536%2C0%2C1536%2C824%2C1536%2C754&vis=2&wgl=true&ca_type=image&bid=ANyPxKo_9a1bqra_4z4TZc6bMnAd87-o0HsV7lrwJyGA6KALhbY72IP0ibI_mKoo6GS_JLgqTzzGm1OAPU5ZYVIJ2ps_QGC2Qg
+accept: */*
+origin: https://www.youtube.com
+x-client-data: CJO2yQEIorbJAQjBtskBCKmdygEI9YTLAQiUocsBCIy8zAEI0bzMAQj8wMwBCJrBzAEIs8HMAQjFwcwBCNfBzAEI1sbMAQicycwBCOPLzAE=
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://www.youtube.com/watch?v=KT3Hkx0lJTU
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en;q=0.9
+cookie: VISITOR_INFO1_LIVE=lgDR3esEvy0; PREF=f4=4000000&tz=Asia.Calcutta; SID=MggR8GTu2mOhVGbns5K3CvMwXa1iNVF651Im5ncRg9ZvvZ_udrBLuXUmsqaGietHPTOv5Q.; __Secure-1PSID=MggR8GTu2mOhVGbns5K3CvMwXa1iNVF651Im5ncRg9ZvvZ_ur5okvHYKQHO7OPlh_PX00w.; __Secure-3PSID=MggR8GTu2mOhVGbns5K3CvMwXa1iNVF651Im5ncRg9ZvvZ_u3q1G4O5xt2DNppXPPE5T0w.; HSID=AIVgS605DxM8AP9yw; SSID=Ai4k0JnrXUPLaUE7R; APISID=inYLmDvmrCGHgtC1/ApUVs_cYtlEJrBj5D; SAPISID=zOPvwNi61LkXEOF6/A07-fP6JBRcU4GAc0; __Secure-1PAPISID=zOPvwNi61LkXEOF6/A07-fP6JBRcU4GAc0; __Secure-3PAPISID=zOPvwNi61LkXEOF6/A07-fP6JBRcU4GAc0; LOGIN_INFO=AFmmF2swRQIhAPAtB7TYlFxrA1U1SUYJcK6QEsptXeqXv8k8wiw7LAkSAiBkLuxIa_hdYNpTq_sD6KMlHmD3KiVzZO5qpguBeW1GVA:QUQ3MjNmeDVoM1VlYW9wUFFQY3BVX25Ia0VUTlRJZmFtU2E0dDMzczVXdmtkbHlCMDlBRGhOU1B6WmFDZ2dlRGU5bDFld0NDRDNBRWVFSVlub3NHTks0OUctbUlzU0VVWU45c2pyeVhLeHRBWHExdmdOekIxQ0V3T1c2OTUzV3lXcllTNXkyNTJmQl9mRlZ3SjhuSnBkNEFrNHRwRFFhdW5R; YSC=2Mo8ULQDhC0; SIDCC=AEf-XMQOj-LZ-I2gDKTQqlNxBnq-1oew8C_G3hszzwzEzgxJPRAzRGlqroS1JgFexXxQjgBQeqg; __Secure-1PSIDCC=AEf-XMQkNXthXK84Qgq-ROoxHzJSlOXWzy0MF6ELuJ0nr3p1tK28BRX8NYGPCMbF3634RuVJ0no; __Secure-3PSIDCC=AEf-XMQisLWQ2x6MVD_YuMtN3ttQ0YLuMrfXSi3VHxbg8j0SfdgRrj1-GG_01dK3PIYGsXaNxK8
+
+{"context":{"client":{"hl":"en-IN","gl":"IN","clientName":1,"clientVersion":"2.20220815.01.00","configInfo":{"appInstallData":"CPj365cGENWxrgUQr7OuBRCTr64FEMuirgUQy-z9EhC4i64FELfLrQUQ-7quBRDUg64FEJb6_RIQ2L6tBRCR-PwS"},"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36","screenDensityFloat":"1.25","mainAppWebInfo":{"webDisplayMode":"WEB_DISPLAY_MODE_BROWSER"},"memoryTotalKbytes":"8000000","connectionType":"CONN_CELLULAR_3G","browserName":"Chrome","browserVersion":"104.0.0.0","osName":"Windows","osVersion":"10.0","platform":"DESKTOP"}},"events":[{"eventTimeMs":1660618586935,"foregroundHeartbeat":{"firstActivityMs":"-1","clientDocumentNonce":"xJIpZqR3S0q1AOcI","index":"24","lastEventDeltaMs":"-1","trigger":"FOREGROUND_HEARTBEAT_TRIGGER_ON_FOREGROUND"},"context":{"lastActivityMs":"2554913"}},{"eventTimeMs":1660618587584,"foregroundHeartbeat":{"firstActivityMs":"-1","clientDocumentNonce":"xJIpZqR3S0q1AOcI","index":"25","lastEventDeltaMs":"648","trigger":"FOREGROUND_HEARTBEAT_TRIGGER_ON_BACKGROUND"},"context":{"lastActivityMs":"2555562"}},{"eventTimeMs":1660618587947,"foregroundHeartbeat":{"firstActivityMs":"-1","clientDocumentNonce":"xJIpZqR3S0q1AOcI","index":"26","lastEventDeltaMs":"-1","trigger":"FOREGROUND_HEARTBEAT_TRIGGER_ON_FOREGROUND"},"context":{"lastActivityMs":"2555925"}},{"eventTimeMs":1660618589013,"foregroundHeartbeat":{"firstActivityMs":"-1","clientDocumentNonce":"xJIpZqR3S0q1AOcI","index":"27","lastEventDeltaMs":"1065","trigger":"FOREGROUND_HEARTBEAT_TRIGGER_ON_BACKGROUND"},"context":{"lastActivityMs":"2556991"}},{"eventTimeMs":1660618596446,"foregroundHeartbeat":{"firstActivityMs":"-1","clientDocumentNonce":"xJIpZqR3S0q1AOcI","index":"28","lastEventDeltaMs":"-1","trigger":"FOREGROUND_HEARTBEAT_TRIGGER_ON_FOREGROUND"},"context":{"lastActivityMs":"2564424"}},{"eventTimeMs":1660618596892,"foregroundHeartbeat":{"firstActivityMs":"-1","clientDocumentNonce":"xJIpZqR3S0q1AOcI","index":"29","lastEventDeltaMs":"446","trigger":"FOREGROUND_HEARTBEAT_TRIGGER_ON_BACKGROUND"},"context":{"lastActivityMs":"2564870"}},{"eventTimeMs":1660618600550,"foregroundHeartbeat":{"firstActivityMs":"-1","clientDocumentNonce":"xJIpZqR3S0q1AOcI","index":"30","lastEventDeltaMs":"-1","trigger":"FOREGROUND_HEARTBEAT_TRIGGER_ON_FOREGROUND"},"context":{"lastActivityMs":"2568528"}},{"eventTimeMs":1660618600969,"foregroundHeartbeat":{"firstActivityMs":"-1","clientDocumentNonce":"xJIpZqR3S0q1AOcI","index":"31","lastEventDeltaMs":"419","trigger":"FOREGROUND_HEARTBEAT_TRIGGER_ON_BACKGROUND"},"context":{"lastActivityMs":"2568947"}},{"eventTimeMs":1660618602533,"foregroundHeartbeat":{"firstActivityMs":"-1","clientDocumentNonce":"xJIpZqR3S0q1AOcI","index":"32","lastEventDeltaMs":"-1","trigger":"FOREGROUND_HEARTBEAT_TRIGGER_ON_FOREGROUND"},"context":{"lastActivityMs":"2570510"}},{"eventTimeMs":1660618603122,"foregroundHeartbeat":{"firstActivityMs":"-1","clientDocumentNonce":"xJIpZqR3S0q1AOcI","index":"33","lastEventDeltaMs":"589","trigger":"FOREGROUND_HEARTBEAT_TRIGGER_ON_BACKGROUND"},"context":{"lastActivityMs":"2571099"}}],"requestTimeMs":1660618613384,"serializedClientEventId":{"serializedEventId":"-Pv6YqWrBcGJ4-EPzfqx2AQ","clientCounter":"12897"}}

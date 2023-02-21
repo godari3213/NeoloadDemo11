@@ -1,0 +1,17 @@
+POST https://login.microsoftonline.com:443/common/oauth2/token HTTP/1.1
+Accept: */*
+Content-Type: application/x-www-form-urlencoded
+client-request-id: abbe0888-0c5a-440f-8709-5388bc323621
+tb-aad-device-family: 3
+tb-aad-env-id: 10.0.19041.1865
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.19043
+Host: login.microsoftonline.com
+Content-Length: 253
+Connection: Keep-Alive
+Cache-Control: no-cache
+x-ms-RefreshTokenCredential: NA
+Cookie: fpc=AlfONkeDNbpOgivt6zqDJTOpA4X2AQAAABD1jNoOAAAAR8QWnAEAAAAm84zaDgAAAC4XcqMBAAAAy_SM2g4AAAA
+
+grant_type=srv_challenge&windows_api_version=2.0&client_id=d3590ed6-52b3-4102-aeff-aad2292ab01c&redirect_uri=ms-appx-web%3a%2f%2fMicrosoft.AAD.BrokerPlugin%2fd3590ed6-52b3-4102-aeff-aad2292ab01c&resource=https%3a%2f%2fincidents.diagnostics.office.com%2f

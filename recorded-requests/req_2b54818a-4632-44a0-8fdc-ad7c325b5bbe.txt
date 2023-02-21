@@ -1,0 +1,14 @@
+GET https://www.googleadservices.com/measurement?jaid=AJHaeXKAqrPwe9EMCLvsnSLZUosRcKJOGoMWCUw9XyCSA3-DJFFIz1rRSg&jaidet=19591 HTTP/2.0
+sec-ch-ua: "Chromium";v="104", " Not A;Brand";v="99", "Google Chrome";v="104"
+sec-ch-ua-mobile: ?0
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+x-client-data: CJO2yQEIorbJAQjBtskBCKmdygEI9YTLAQiUocsBCIy8zAEI0bzMAQj8wMwBCJrBzAEIs8HMAQjFwcwBCNfBzAEI1sbMAQicycwBCOPLzAE=
+sec-fetch-site: cross-site
+sec-fetch-mode: no-cors
+sec-fetch-dest: image
+referer: https://www.google.com/
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en;q=0.9
+

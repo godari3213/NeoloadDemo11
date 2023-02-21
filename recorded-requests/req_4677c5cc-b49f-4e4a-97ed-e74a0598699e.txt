@@ -1,0 +1,15 @@
+POST https://incidents.diagnostics.office.com/notificationeligibility HTTP/2.0
+content-type: application/json
+accept: text/plain
+authorization: Bearer
+user-agent: Microsoft Office/16.0 (Windows NT 10.0; Microsoft Outlook 16.0.14931; Pro)
+x-office-major-version: 16
+x-ms-cookieuri-requested: t
+x-featureversion: 1
+accept-auth: badger,Wlid1.1,Bearer,Basic,NTLM,Digest,Kerberos,Negotiate,Nego2
+client-request-id: {5119DAF3-982A-4D9B-BFDE-EC01FBB58442}
+x-ods-clientid: B676AD1A-54BB-4B67-BD28-20A985B03732
+x-ms-sara-api-version: schema-v1
+content-length: 18
+
+{"Locale":"en-US"}

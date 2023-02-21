@@ -1,0 +1,14 @@
+<RepLookupResponse>
+    <RepLookupResult>
+              <Rs>                    
+            <M>training.localhost/jpetstore</M>
+            <C>UNKN:100:1:1</C>
+            <R>1:1</R>
+            <L>10080</L>
+            <S>0</S>
+        </Rs>
+    </RepLookupResult>
+    <Y>100</Y>
+    <T>36A52A1E-FBCD-0C37-C77A-F30AB34FC5B4</T>
+    <E>0</E>
+</RepLookupResponse>

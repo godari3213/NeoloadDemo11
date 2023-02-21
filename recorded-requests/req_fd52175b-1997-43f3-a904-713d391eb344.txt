@@ -1,0 +1,7 @@
+GET https://config.teams.microsoft.com:443/config/v1/Teams/27_1.5.00.21463__?CLRelease=2022.26.01.13&CLVersion=releases%2fCL2022.R26&CPUBrand=11th%20Gen%20Intel%28R%29%20Core%28TM%29%20i7-11850H%20%40%202.50GHz&CPUCoreCount=8&CPUCount=16&CPUFamily=6&CPUModel=141&CPUName=tigerlake&CPUSpeedMHz=2496&CPUStepping=1&CPUVendor=GenuineIntel&FormFactor=LAPTOP&GPUDeviceId=39520&GPURevision=174526504&GPUVendor=32902&Manufacturer=Dell%20Inc.&Model=Latitude%205521&NodeId=8976089964682434745&OSVer=10.0&SystemPatch=19043.1889&global.os=Windows%2010.0%20%20%28build%2019043%2c%20platformID%202%2c%20version%200x4a63000a%29 HTTP/1.1
+Host: config.teams.microsoft.com
+Authorization: eyJhbGciOiJSUzI1NiIsImtpZCI6IjEwNiIsIng1dCI6Im9QMWFxQnlfR3hZU3pSaXhuQ25zdE5PU2p2cyIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NjA1NzU3NjUsImV4cCI6MTY2MDY1NjUwNywic2t5cGVpZCI6Im9yZ2lkOjFkYjcxYmRlLWNmZjAtNDQ1NC05ODg5LTkzOTBmZWVmZGE5ZiIsInNjcCI6NzgwLCJjc2kiOiIxNjYwNTc1NDU2IiwidGlkIjoiZTA3OTNkMzktMDkzOS00OTZkLWIxMjktMTk4ZWRkOTE2ZmViIiwicmduIjoiYW1lciJ9.jBcyMckCVBxD3WCbB011Yw1Z1hsQOVrjclH_JNCtjdqXXFG94hrg_ysJ4ZoIWXSvZb5hgAI16IdgBtJ3MKYzktlInquOV6MRoxDGY3J-hhiVRoemY6lm_i1Cm_ywqNmZkyWzCjQ-O17cr_nGSqquMyiY07kLEScUygYTsssaAMttHSqZC0Jkakw51Gr2pl2s9U0zHU3J59MExXZBRByWpTbAuxvdW0E9SxmAbt2onsnydhRTzZbnpxdfDrKkIT2_vhs8xssjplc8ev6MNhQstvgtYZDQbv20V787DboQhFd9Rhogrwea8RcAaMp6l4jLcdp_AWjqtExEx278uEM0Ug
+If-None-Match: "BF10UqWztBi/EpQZ8MTUiO1yF6Vdg2XgFByZLOnHT/s="
+User-Agent: RT HttpStack
+Accept-Encoding: gzip, deflate
+

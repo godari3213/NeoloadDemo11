@@ -1,0 +1,42 @@
+[
+  {
+    "name": "End_long_meetings_by",
+    "value": "10",
+    "type": "Int",
+    "source": "TenantDefault",
+    "scope": "Global",
+    "parentSetting": "",
+    "Timestamp": 637962157173251522,
+    "itemClass": "RoamingSetting"
+  },
+  {
+    "name": "End_Short_meetings_by",
+    "value": "5",
+    "type": "Int",
+    "source": "TenantDefault",
+    "scope": "Global",
+    "parentSetting": "",
+    "Timestamp": 637962157173366389,
+    "itemClass": "RoamingSetting"
+  },
+  {
+    "name": "shorten_event_scope",
+    "value": "None",
+    "type": "String",
+    "source": "TenantDefault",
+    "scope": "Global",
+    "parentSetting": "",
+    "Timestamp": 637962157173468035,
+    "itemClass": "RoamingSetting"
+  },
+  {
+    "name": "onlinemeetings_enabledbydefault",
+    "value": "False",
+    "type": "Bool",
+    "source": "TenantDefault",
+    "scope": "Global",
+    "parentSetting": "",
+    "Timestamp": 637962157173575862,
+    "itemClass": "RoamingSetting"
+  }
+]

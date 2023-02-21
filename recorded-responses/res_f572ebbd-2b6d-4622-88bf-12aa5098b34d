@@ -1,0 +1,242 @@
+[
+  {
+    "name": "End_long_meetings_by",
+    "value": "10",
+    "type": "Int",
+    "source": "TenantDefault",
+    "scope": "srinivas.godari@accenture.com",
+    "parentSetting": "",
+    "Timestamp": 637962157159484033,
+    "itemClass": "RoamingSetting"
+  },
+  {
+    "name": "End_Short_meetings_by",
+    "value": "5",
+    "type": "Int",
+    "source": "TenantDefault",
+    "scope": "srinivas.godari@accenture.com",
+    "parentSetting": "",
+    "Timestamp": 637962157159608352,
+    "itemClass": "RoamingSetting"
+  },
+  {
+    "name": "shorten_event_scope",
+    "value": "None",
+    "type": "String",
+    "source": "TenantDefault",
+    "scope": "srinivas.godari@accenture.com",
+    "parentSetting": "",
+    "Timestamp": 637962157159722559,
+    "itemClass": "RoamingSetting"
+  },
+  {
+    "name": "onlinemeetings_enabledbydefault",
+    "value": "False",
+    "type": "Bool",
+    "source": "TenantDefault",
+    "scope": "srinivas.godari@accenture.com",
+    "parentSetting": "",
+    "Timestamp": 637962157159835082,
+    "itemClass": "RoamingSetting"
+  },
+  {
+    "name": "UserOptionsMigrationState",
+    "value": "5",
+    "type": "Int",
+    "source": "UserOverride",
+    "scope": "OID:1db71bde-cff0-4454-9889-9390feefda9f@e0793d39-0939-496d-b129-198edd916feb",
+    "parentSetting": "",
+    "Timestamp": 637962157158360510,
+    "itemClass": "LegacyOwsSetting"
+  },
+  {
+    "name": "MruEmojis",
+    "value": "csimg image-emoji_1f60a-png",
+    "type": "String",
+    "source": "UserOverride",
+    "scope": "OID:1db71bde-cff0-4454-9889-9390feefda9f@e0793d39-0939-496d-b129-198edd916feb",
+    "parentSetting": "",
+    "Timestamp": 637962157158360508,
+    "itemClass": "LegacyOwsSetting"
+  },
+  {
+    "name": "AllowedOnlineMeetingProviders",
+    "value": "WzMsNTEsNTIsNTMsNTQsNTUsNTYsNTcsNTgsNTksNjAsNjEsNjIsNjNd",
+    "type": "Bin",
+    "source": "UserOverride",
+    "scope": "OID:1db71bde-cff0-4454-9889-9390feefda9f@e0793d39-0939-496d-b129-198edd916feb",
+    "parentSetting": "",
+    "Timestamp": 637962157158360505,
+    "itemClass": "LegacyOwsSetting"
+  },
+  {
+    "name": "IsFavoritesFolderTreeCollapsed",
+    "value": "false",
+    "type": "Bool",
+    "source": "UserOverride",
+    "scope": "OID:1db71bde-cff0-4454-9889-9390feefda9f@e0793d39-0939-496d-b129-198edd916feb",
+    "parentSetting": "",
+    "Timestamp": 637962157158360502,
+    "itemClass": "LegacyOwsSetting"
+  },
+  {
+    "name": "EventsFromEmailDelegateChecked",
+    "value": "true",
+    "type": "Bool",
+    "source": "UserOverride",
+    "scope": "OID:1db71bde-cff0-4454-9889-9390feefda9f@e0793d39-0939-496d-b129-198edd916feb",
+    "parentSetting": "",
+    "Timestamp": 637962157158360497,
+    "itemClass": "LegacyOwsSetting"
+  },
+  {
+    "name": "timezone",
+    "value": "India Standard Time",
+    "type": "String",
+    "source": "UserOverride",
+    "scope": "OID:1db71bde-cff0-4454-9889-9390feefda9f@e0793d39-0939-496d-b129-198edd916feb",
+    "parentSetting": "",
+    "Timestamp": 637962157158360495,
+    "itemClass": "LegacyOwsSetting"
+  },
+  {
+    "name": "UserProfileV2",
+    "value": "[]",
+    "type": "String",
+    "source": "UserOverride",
+    "scope": "OID:1db71bde-cff0-4454-9889-9390feefda9f@e0793d39-0939-496d-b129-198edd916feb",
+    "parentSetting": "",
+    "Timestamp": 637962157158360485,
+    "itemClass": "LegacyOwsSetting"
+  },
+  {
+    "name": "WeatherLocations",
+    "value": "LocationId:105808079;Name:Redmond, WA;Latitude:47.67399;Longitude:-122.121513",
+    "type": "String",
+    "source": "UserOverride",
+    "scope": "OID:1db71bde-cff0-4454-9889-9390feefda9f@e0793d39-0939-496d-b129-198edd916feb",
+    "parentSetting": "",
+    "Timestamp": 637962157158360479,
+    "itemClass": "LegacyOwsSetting"
+  },
+  {
+    "name": "FavoriteFolders",
+    "value": "AAMkAGZkMmFmZDE0LWMyNzMtNDM0NC05ZGRlLTBjZTY2MGZhMGFhZgAuAAAAAAAlifYdCcdRS5q7xxeV3Q+5AQCoPVaacLkQSpqbIeZT10BkAAAAAAEMAAA=,AAMkAGZkMmFmZDE0LWMyNzMtNDM0NC05ZGRlLTBjZTY2MGZhMGFhZgAuAAAAAAAlifYdCcdRS5q7xxeV3Q+5AQCoPVaacLkQSpqbIeZT10BkAAAAAAEJAAA=,AAMkAGZkMmFmZDE0LWMyNzMtNDM0NC05ZGRlLTBjZTY2MGZhMGFhZgAuAAAAAAAlifYdCcdRS5q7xxeV3Q+5AQCoPVaacLkQSpqbIeZT10BkAAAAAAEKAAA=",
+    "type": "String",
+    "source": "UserOverride",
+    "scope": "OID:1db71bde-cff0-4454-9889-9390feefda9f@e0793d39-0939-496d-b129-198edd916feb",
+    "parentSetting": "",
+    "Timestamp": 637962157158360455,
+    "itemClass": "LegacyOwsSetting"
+  },
+  {
+    "name": "DefaultOnlineMeetingProvider",
+    "value": "3",
+    "type": "Int",
+    "source": "UserOverride",
+    "scope": "OID:1db71bde-cff0-4454-9889-9390feefda9f@e0793d39-0939-496d-b129-198edd916feb",
+    "parentSetting": "",
+    "Timestamp": 637962157158360436,
+    "itemClass": "LegacyOwsSetting"
+  },
+  {
+    "name": "FavoritesBitFlags",
+    "value": "22",
+    "type": "Int",
+    "source": "UserOverride",
+    "scope": "OID:1db71bde-cff0-4454-9889-9390feefda9f@e0793d39-0939-496d-b129-198edd916feb",
+    "parentSetting": "",
+    "Timestamp": 637962157158360434,
+    "itemClass": "LegacyOwsSetting"
+  },
+  {
+    "name": "IsFocusedInboxOnLastUpdateTime",
+    "value": "11/30/2016 07:53:14",
+    "type": "String",
+    "source": "UserOverride",
+    "scope": "OID:1db71bde-cff0-4454-9889-9390feefda9f@e0793d39-0939-496d-b129-198edd916feb",
+    "parentSetting": "",
+    "Timestamp": 637962157158360431,
+    "itemClass": "LegacyOwsSetting"
+  },
+  {
+    "name": "EventsFromEmailShadowMailboxChecked",
+    "value": "true",
+    "type": "Bool",
+    "source": "UserOverride",
+    "scope": "OID:1db71bde-cff0-4454-9889-9390feefda9f@e0793d39-0939-496d-b129-198edd916feb",
+    "parentSetting": "",
+    "Timestamp": 637962157158360426,
+    "itemClass": "LegacyOwsSetting"
+  },
+  {
+    "name": "IsGroupsTreeCollapsed",
+    "value": "false",
+    "type": "Bool",
+    "source": "UserOverride",
+    "scope": "OID:1db71bde-cff0-4454-9889-9390feefda9f@e0793d39-0939-496d-b129-198edd916feb",
+    "parentSetting": "",
+    "Timestamp": 637962157158360421,
+    "itemClass": "LegacyOwsSetting"
+  },
+  {
+    "name": "ReportEventsCreatedFromEmailEnabled",
+    "value": "false",
+    "type": "Bool",
+    "source": "UserOverride",
+    "scope": "OID:1db71bde-cff0-4454-9889-9390feefda9f@e0793d39-0939-496d-b129-198edd916feb",
+    "parentSetting": "",
+    "Timestamp": 637962157158360419,
+    "itemClass": "LegacyOwsSetting"
+  },
+  {
+    "name": "FrequentlyUsedFolders",
+    "value": "{\"FolderId\":\"AAMkAGZkMmFmZDE0LWMyNzMtNDM0NC05ZGRlLTBjZTY2MGZhMGFhZgAuAAAAAAAlifYdCcdRS5q7xxeV3Q+5AQCoPVaacLkQSpqbIeZT10BkAAAAAAEJAAA=\",\"Weight\":20,\"lvt\":\"2022-02-11T06:15:51.369Z\"}",
+    "type": "String",
+    "source": "UserOverride",
+    "scope": "OID:1db71bde-cff0-4454-9889-9390feefda9f@e0793d39-0939-496d-b129-198edd916feb",
+    "parentSetting": "",
+    "Timestamp": 637962157158360413,
+    "itemClass": "LegacyOwsSetting"
+  },
+  {
+    "name": "IsMailRootFolderTreeCollapsed",
+    "value": "true",
+    "type": "Bool",
+    "source": "UserOverride",
+    "scope": "OID:1db71bde-cff0-4454-9889-9390feefda9f@e0793d39-0939-496d-b129-198edd916feb",
+    "parentSetting": "",
+    "Timestamp": 637962157158360404,
+    "itemClass": "LegacyOwsSetting"
+  },
+  {
+    "name": "IsOptimizedForAccessibility",
+    "value": "false",
+    "type": "Bool",
+    "source": "UserOverride",
+    "scope": "OID:1db71bde-cff0-4454-9889-9390feefda9f@e0793d39-0939-496d-b129-198edd916feb",
+    "parentSetting": "",
+    "Timestamp": 637962157158360401,
+    "itemClass": "LegacyOwsSetting"
+  },
+  {
+    "name": "NewEnabledPonts",
+    "value": "2012987391",
+    "type": "Int",
+    "source": "UserOverride",
+    "scope": "OID:1db71bde-cff0-4454-9889-9390feefda9f@e0793d39-0939-496d-b129-198edd916feb",
+    "parentSetting": "",
+    "Timestamp": 637962157158360397,
+    "itemClass": "LegacyOwsSetting"
+  },
+  {
+    "name": "NavigationPaneViewOption",
+    "value": "1",
+    "type": "Int",
+    "source": "UserOverride",
+    "scope": "OID:1db71bde-cff0-4454-9889-9390feefda9f@e0793d39-0939-496d-b129-198edd916feb",
+    "parentSetting": "",
+    "Timestamp": 637962157158360369,
+    "itemClass": "LegacyOwsSetting"
+  }
+]

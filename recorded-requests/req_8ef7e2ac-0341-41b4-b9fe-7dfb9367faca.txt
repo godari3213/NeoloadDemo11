@@ -1,0 +1,10 @@
+POST https://urs.microsoft.com:443/urs.asmx?MSURS-Client-Key=13hqrH8UR/H74JS205TlFQ%3d%3d&MSURS-MAC=NayFjpfe8j8%3d HTTP/1.1
+Accept: text/*
+Content-Type: text/xml; charset=utf-8
+User-Agent: VCSoapClient
+Host: urs.microsoft.com
+Content-Length: 554
+DNT: 1
+Cache-Control: no-cache
+
+<RepLookup v="6"><G>4A72F430-B40C-4D36-A068-CE33ADA5ADF9</G><O>36A52A1E-FBCD-0C37-C77A-F30AB34FC5B4</O><DID>sjC6Sx3F/XMILsP+6bXfzZ1o/vguKbuBzz7qmKJE6j0=:1</DID><UID>w:2D1F28F4-0BCA-8A22-B254-9A9BB12439CD</UID><D>10.0.8110.6</D><C>11.0.0.0</C><OS>10.0.19043.0.0</OS><I>9.11.19041.0</I><L>en-US</L><RU></RU><RI>0.0.0.0</RI><R><Rq><URL>aHR0cDovL3d3dy5uZW90eXMuY29tL3JlZGlyZWN0L3JlZGlyZWN0LnBocD90YXJnZXQ9cmVjb3JkZXImbG5nPWVuJnBvcnQ9ODA5MA==</URL><O>PRE</O><T>TOP</T><HIP>0000:0000:0000:0000:0000:0000:0000:0001</HIP></Rq></R><WA/><PRT>4214</PRT></RepLookup>

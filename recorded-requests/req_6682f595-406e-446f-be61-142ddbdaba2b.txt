@@ -1,0 +1,22 @@
+GET https://www.google.com/gen_204?atyp=i&ct=psnt&cad=&nt=navigate&ei=NAf7YreHM8vv4-EP0ZCZmAE&zx=1660618555908 HTTP/2.0
+sec-ch-ua: "Chromium";v="104", " Not A;Brand";v="99", "Google Chrome";v="104"
+sec-ch-ua-full-version-list: "Chromium";v="104.0.5112.81", " Not A;Brand";v="99.0.0.0", "Google Chrome";v="104.0.5112.81"
+sec-ch-ua-mobile: ?0
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+sec-ch-ua-arch: "x86"
+sec-ch-ua-full-version: "104.0.5112.81"
+sec-ch-ua-platform-version: "10.0.0"
+sec-ch-ua-bitness: "64"
+sec-ch-ua-wow64: ?0
+sec-ch-ua-model: 
+sec-ch-ua-platform: "Windows"
+accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+x-client-data: CJO2yQEIorbJAQjBtskBCKmdygEI9YTLAQiUocsBCIy8zAEI0bzMAQj8wMwBCJrBzAEIs8HMAQjFwcwBCNfBzAEI1sbMAQicycwBCOPLzAE=
+sec-fetch-site: same-origin
+sec-fetch-mode: no-cors
+sec-fetch-dest: image
+referer: https://www.google.com/
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en;q=0.9
+cookie: SID=MggR8GTu2mOhVGbns5K3CvMwXa1iNVF651Im5ncRg9ZvvZ_udrBLuXUmsqaGietHPTOv5Q.; __Secure-1PSID=MggR8GTu2mOhVGbns5K3CvMwXa1iNVF651Im5ncRg9ZvvZ_ur5okvHYKQHO7OPlh_PX00w.; __Secure-3PSID=MggR8GTu2mOhVGbns5K3CvMwXa1iNVF651Im5ncRg9ZvvZ_u3q1G4O5xt2DNppXPPE5T0w.; HSID=An8dYi9LQpl5elE-x; SSID=AfeI7LkkPZYln8_Pu; APISID=inYLmDvmrCGHgtC1/ApUVs_cYtlEJrBj5D; SAPISID=zOPvwNi61LkXEOF6/A07-fP6JBRcU4GAc0; __Secure-1PAPISID=zOPvwNi61LkXEOF6/A07-fP6JBRcU4GAc0; __Secure-3PAPISID=zOPvwNi61LkXEOF6/A07-fP6JBRcU4GAc0; SEARCH_SAMESITE=CgQIgZYB; OTZ=6627561_34_34__34_; OGPC=19030739-1:; AEC=AakniGMadXxkQHkq8acSVMUT7hBCHrZbQ_TNaffCtb0z6n_LvYxw2f3Jgfc; 1P_JAR=2022-08-16-02; DV=s7UWIjNkwbFeQEvVbUyKQSk2gEJJKliXimc7DQWIhQEAAIBHfY3ypUEuhAAAAPCSFA-qpoSSIgAAAI9ZOOcFiGXgCgAAAA; SIDCC=AEf-XMRk0ZYA_hSO1y-IkfYBZymSry1rXmy9p0qLPRVe--FvCryI4RGs3l50ckgmrPz6EZ9a3w; __Secure-1PSIDCC=AEf-XMT1MT0ZGEXRqdxZ_oOSWlNjKxur0_sXu23iT8r7bo6Ik2nd8Iplu8O4g5822BFrvJVWLg; __Secure-3PSIDCC=AEf-XMRkulTSDoxIeneZwCWCVOtMShzCaAfFPhzLayJaoRxJUVO3-dzP3LFRasi2oZ2ke2G972M; NID=511=S5hEHmb2dExAN8d2TNEiy2jTtqC9fgJew6MnpOOhXmnNZmEkb1vp3K5E8261Iu-JUlgTpzr4yn0JRPB_ZHfBuz-RBC40v_X162gItOTySKW7OXHYs9w9IGFT0peqsCL9QaTDj8QBjMZZP1qaFFRGkYYbjclAHShR4rROJUQ8nkfZxLc3IdWMRxo7XOX7xYZOGPMf9Ogg96nndDni5Pq9OzkpanozZtFiANbl1Smuw8Z6aoOBV75Lxz-QOWyPFRR2_sMlyxYb0bsR0ggu
+

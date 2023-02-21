@@ -1,0 +1,9 @@
+GET http://mybatis.org/jpetstore-6/apidocs/resources/fonts/dejavu.css HTTP/1.1
+Host: mybatis.org
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://mybatis.org/jpetstore-6/apidocs/stylesheet.css
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+

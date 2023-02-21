@@ -1,0 +1,27 @@
+POST https://play.google.com/log?format=json&hasfast=true&authuser=0 HTTP/2.0
+content-length: 434
+sec-ch-ua: "Chromium";v="104", " Not A;Brand";v="99", "Google Chrome";v="104"
+sec-ch-ua-full-version-list: "Chromium";v="104.0.5112.81", " Not A;Brand";v="99.0.0.0", "Google Chrome";v="104.0.5112.81"
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+sec-ch-ua-mobile: ?0
+authorization: SAPISIDHASH acc211d0b8cd4deea09686c3b4588e8dd7e7f2cb
+sec-ch-ua-arch: "x86"
+sec-ch-ua-full-version: "104.0.5112.81"
+sec-ch-ua-platform-version: "10.0.0"
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+x-goog-authuser: 0
+sec-ch-ua-bitness: "64"
+sec-ch-ua-model: 
+sec-ch-ua-platform: "Windows"
+accept: */*
+origin: https://www.youtube.com
+x-client-data: CJO2yQEIorbJAQjBtskBCKmdygEI9YTLAQiUocsBCIy8zAEI0bzMAQj8wMwBCJrBzAEIs8HMAQjFwcwBCNfBzAEI1sbMAQicycwBCOPLzAE=
+sec-fetch-site: cross-site
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://www.youtube.com/
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en;q=0.9
+cookie: __Secure-3PSID=MggR8GTu2mOhVGbns5K3CvMwXa1iNVF651Im5ncRg9ZvvZ_u3q1G4O5xt2DNppXPPE5T0w.; __Secure-3PAPISID=zOPvwNi61LkXEOF6/A07-fP6JBRcU4GAc0; NID=511=Q1f5VJcJt4ZEhKVdIT2fDROPm2AqiMWOKg8GForHKMSMgWKx-vJEOBasAXLNavIbnGFSHvOIOw6q9p16UiHXpXUHdTnGB6oUePy3mFt6isz35GRL5LcIIWONwsmx1dEbo0Sx9TtzVe1_QWojOlj0tX3BmPA8FluOW50uPip9WAAnX40N-LvGAcltKFUHxh-9O-kLQHLPInUvWH5v_NRuRZWD3iF3ZgPq27xIyOQ4Sf7mGL9qVf0n1-NYPAFRZ2bX0Tv5UxNMrRsX9wrZ; __Secure-3PSIDCC=AEf-XMTcAMoCNuQAsM_HCGRF5eBy1F5luQp8uOLUG7OPLQJr4Xck55TDJvZrtJyulTgf5IiUH64
+
+[[1,null,null,null,null,null,null,null,null,null,[null,null,null,null,"en-IN",null,"5"]],1654,[["1660618411401",null,[],null,null,null,null,"[[[\"/client_streamz/po/w/el\",null,[\"en\",\"rk\"],[[[[\"C\"],[\"O43z0dpjhgX20SCx4KAo\"]],[null,0.40000000037252903]],[[[\"m\"],[\"O43z0dpjhgX20SCx4KAo\"]],[null,0.5]]],null,[]]]]",null,null,null,null,null,null,-19800,null,null,null,null,[],4,null,null,null,null,null,[]]],"1660618411401",[]]

@@ -1,0 +1,11 @@
+GET https://pcem2.accenture.com:443/emie.xml HTTP/1.1
+Accept: */*
+UA-CPU: AMD64
+Accept-Encoding: gzip, deflate, peerdist
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; gdn/adcp; rv:11.0) like Gecko
+Host: pcem2.accenture.com
+DNT: 1
+Connection: Keep-Alive
+X-P2P-PeerDist: Version=1.1
+X-P2P-PeerDistEx: MinContentInformation=1.0, MaxContentInformation=2.0
+

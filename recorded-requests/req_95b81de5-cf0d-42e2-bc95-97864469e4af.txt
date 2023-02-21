@@ -1,0 +1,18 @@
+GET https://tricentis.zoom.us/rec/playcheck/kDH2UKa4fLAm7aAQqFCexzAp9uUuIFcpKbA8A12eeV_FazAsaEbufqpBYparY_PbX29jAYclGDsXkpLg.OlHtuxRNRYflNroB?accid=uH41h7TbFQhEo5bVNkS8BkJ4A6LXDn6UZbiNAYEaQQiOn3njP70cpTAYSxG4IRhggNuJhQ.dfI4nGkZJKkKqX_M&dur=1166 HTTP/2.0
+sec-ch-ua: "Chromium";v="104", " Not A;Brand";v="99", "Microsoft Edge";v="104"
+x-zm-cluster-id: aw1
+sec-ch-ua-mobile: ?0
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54
+accept: application/json, text/plain, */*
+x-requested-with: XMLHttpRequest, OWASP CSRFGuard Project
+zoom-csrftoken: LXWQ-X939-HRDR-YOB4-UYEF-I9IO-30Z6-I2G6
+dnt: 1
+sec-ch-ua-platform: "Windows"
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://tricentis.zoom.us/rec/play/U4fbLUfbVPITQ8qUP3mzsS7Dl1RDRsRVa_6oUHe-hufuaEUIhMkVAtsjEUtE2EoHGUOiekMi1sXiBW9Z.Dn2zAnjUfkT8Lr-3?continueMode=true&_x_zm_rtaid=LlQ3h09-TVS0m_m4aFMaRg.1660615417102.c3e310d7fc01668b969395417747c504&_x_zm_rhtaid=804
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en;q=0.9
+cookie: _zm_mtk_guid=2ee646d256ae4f5f9d4eaeea1ef95180; _zm_visitor_guid=2ee646d256ae4f5f9d4eaeea1ef95180; wULrMv6t=A10qdD-CAQAAwKcGqtRUg2HgmkO1WUZ3YWVdYhG2rKrRGcib-xKGVrnhDprMAWrQHaCuci7ywH8AAEB3AAAAAA|1|0|21c619ba5f5960337c79faa7d0931c784029539a; _zm_lang=en-US; OptanonAlertBoxClosed=2022-07-27T12:33:10.403Z; OnetrustActiveGroups=C0001C0002C0003C0004; _zm_tracking_guid=a614852e1c064318a5d27ddbe78aaf61; _zm_ssid=aw1_c_veQ0iiqHTgCN6m6OPVFl5w; _zm_ctaid=LlQ3h09-TVS0m_m4aFMaRg.1660615417102.c3e310d7fc01668b969395417747c504; _zm_chtaid=804; _zm_csp_script_nonce=muMWMXxrRLitM-ERMKN0jg; _zm_currency=INR; _zm_page_auth=aw1_c_dN-wIxnOTBirMihocM3-4Q; _zm_cdn_blocked=unlog_unblk; OptanonConsent=isGpcEnabled=0&datestamp=Tue+Aug+16+2022+07%3A33%3A47+GMT%2B0530+(India+Standard+Time)&version=6.21.0&isIABGlobal=false&hosts=&consentId=b3cf914d-bd75-44cb-adaf-0f27789315d0&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&geolocation=IN%3BTG; cred=7BB4C5726CB3F7D55C38EE1A764D51C2
+

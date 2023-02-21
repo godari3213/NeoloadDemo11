@@ -1,0 +1,10 @@
+GET https://outlook.office365.com:443/autodiscover/autodiscover.json/v1.0/srinivas.godari@accenture.com?Protocol=Actions HTTP/1.1
+Connection: Keep-Alive
+Accept: application/json
+Accept-Encoding: peerdist
+User-Agent: Microsoft Office/16.0 (Windows NT 10.0; Microsoft Outlook 16.0.14931; Pro)
+client-request-id: B7EBD828-F06A-4286-988C-9180BD613C62
+X-P2P-PeerDist: Version=1.1
+X-P2P-PeerDistEx: MinContentInformation=1.0, MaxContentInformation=2.0
+Host: outlook.office365.com
+

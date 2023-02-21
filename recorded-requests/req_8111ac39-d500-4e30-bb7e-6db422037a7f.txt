@@ -1,0 +1,12 @@
+GET http://x1.c.lencr.org/ HTTP/1.1
+Cache-Control: max-age = 3600
+Proxy-Connection: Keep-Alive
+Accept: */*
+Accept-Encoding: peerdist
+If-Modified-Since: Mon, 13 Jun 2022 17:00:00 GMT
+If-None-Match: "62a76d10-2cd"
+User-Agent: Microsoft-CryptoAPI/10.0
+X-P2P-PeerDist: Version=1.1
+X-P2P-PeerDistEx: MinContentInformation=1.0, MaxContentInformation=2.0
+Host: x1.c.lencr.org
+

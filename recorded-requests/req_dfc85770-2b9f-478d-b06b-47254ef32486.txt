@@ -1,0 +1,10 @@
+OPTIONS https://aefd.nelreports.net:443/api/report?cat=bingaot HTTP/1.1
+Host: aefd.nelreports.net
+Connection: keep-alive
+Origin: https://www.bing.com
+Access-Control-Request-Method: POST
+Access-Control-Request-Headers: content-type
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+

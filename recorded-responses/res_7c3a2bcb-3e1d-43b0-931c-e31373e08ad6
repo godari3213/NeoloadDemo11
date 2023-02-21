@@ -1,0 +1,16 @@
+--batchresponse_1c7d1f4f-d3d1-41e8-a146-bc9dc3392b32
+Content-Type: application/http
+Content-Transfer-Encoding: binary
+
+HTTP/1.1 201 Created
+Location: /V3/feeds/me/activities/f0656e2f-3485-340f-8c7f-d504b55be310
+X-AFS-BaseEtag: b770f600-1d0c-11ed-9117-01020305070d
+X-AFS-NewETag: b770f600-1d0c-11ed-9117-01020305070d
+X-AFS-Tracking: cV=NcCtJgcDAQxKFn4Y.0.0;server=TY1PEPF00001872
+client-request-id: c8f341f7-ca6c-4e03-bdba-44869c872e47
+Date: Tue, 16 Aug 2022 02:39:57 GMT
+X-Content-Type-Options: nosniff
+Content-Type: application/json
+
+[{"groupIds":"Copy","activityId":"f0656e2f-3485-340f-8c7f-d504b55be310","parentActivityId":"b5ca03bb-a952-9b02-cfa5-eb4fb5fe5ffe","deviceId":"dds:df784907-1d17-5162-8d1f-0999eb917dc1","platformDeviceId":"hHs/0NNRyFNmHvQHYcOPtOwGaMKmJF7x70QV8TaJRSs=","lastModified":"2022-08-16T02:39:57.280Z","lastModifiedOnClient":"2022-08-16T02:39:54.000Z","createdInCloud":"2022-08-16T02:39:57.280Z","appId":{"alternateId":"","packageId":"MSEdge","windows_win32":"MSEdge"},"applicationId":[{"platform":"windows_win32","application":"MSEdge"},{"platform":"packageId","application":"MSEdge"},{"platform":"alternateId","application":""}],"type":16,"status":null,"priority":3,"expiration":null,"payload":"eyJnZHByVHlwZSI6IlByb2R1Y3RBbmRTZXJ2aWNlVXNhZ2UiLCJjbGlwYm9hcmREYXRhSWQiOiJ7MDVEMEUxNDQtMTg2NC00OTM0LUE1NjUtNTI4NTM5RUM0QjAzfSJ9","jsonPayload":null,"remoteId":null,"tags":null,"assets":null,"appActivityId":"ECB32AF3-1440-4086-94E3-5311F97F89C4","startTime":"2022-08-16T02:39:54.000Z","endTime":"2022-08-16T02:39:54.000Z","isAppActivity":false}]
+--batchresponse_1c7d1f4f-d3d1-41e8-a146-bc9dc3392b32--

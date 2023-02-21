@@ -1,0 +1,14 @@
+# Project description file
+
+project.name=Demo99
+project.version=8.4
+project.original.version=8.4
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.version=8.2.1
+product.original.version=8.2.1
+project.is-open-test-settings-after-upload=false
+project.id=b4c271c4-5ae4-4c8f-9239-ae5b66a30a79
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false

@@ -1,0 +1,6 @@
+GET https://config.teams.microsoft.com:443/config/v1/Teams/27_1.5.00.21463__?CLRelease=2022.26.01.13&CLVersion=releases%2fCL2022.R26&CPUBrand=11th%20Gen%20Intel%28R%29%20Core%28TM%29%20i7-11850H%20%40%202.50GHz&CPUCoreCount=8&CPUCount=16&CPUFamily=6&CPUModel=141&CPUName=tigerlake&CPUSpeedMHz=2496&CPUStepping=1&CPUVendor=GenuineIntel&FormFactor=LAPTOP&GPUDeviceId=39520&GPURevision=174526504&GPUVendor=32902&Manufacturer=Dell%20Inc.&Model=Latitude%205521&NodeId=8976089964682434745&OSVer=10.0&SystemPatch=19043.1889&global.os=Windows%2010.0%20%20%28build%2019043%2c%20platformID%202%2c%20version%200x4a63000a%29 HTTP/1.1
+Host: config.teams.microsoft.com
+If-None-Match: "V7+HsaAsaqgv2azrHvYsXBN29HdI2nE2lz4rtCAS6jY="
+User-Agent: RT HttpStack
+Accept-Encoding: gzip, deflate
+

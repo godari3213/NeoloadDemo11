@@ -1,0 +1,17 @@
+GET https://ngep.blackspider.com:443/urlinfo/disposition HTTP/1.1
+X-WS-URL: https://enterprise.activity.windows.com
+X-WS-header-user-agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.66 Safari/537.36
+X-WS-Request-Context: 558
+X-WS-HTTP-Method: CONNECT
+X-WS-App-Name: TmVvTG9hZEdVSS5leGU=
+X-WS-Ep-Ver: 22.01.5526
+X-WS-Ver: 3.0
+Host: endpoint.websense.net
+X-WS-AUTH: User:DIR\srinivas.godari;MachineID:HDC3-L-8NTLTG3\192.168.1.103;LogonDomain:1;Bits:64bit;Platform:x64;Context:a8560c5abc02157a527d7401bb37a737-0;TZ:05:00;Settings-Hash:0;OS:Windows
+Content-Length: 0
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.66 Safari/537.36
+Connection: Keep-Alive
+X-P2P-PeerDist: Version=1.1
+X-P2P-PeerDistEx: MinContentInformation=1.0, MaxContentInformation=2.0
+Accept-Encoding: peerdist
+

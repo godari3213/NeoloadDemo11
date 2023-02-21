@@ -1,0 +1,26 @@
+POST https://www.bing.com/fd/ls/lsp.aspx HTTP/2.0
+content-length: 674
+sec-ch-ua: "Chromium";v="104", " Not A;Brand";v="99", "Microsoft Edge";v="104"
+dnt: 1
+content-type: text/plain
+sec-ch-ua-model: 
+sec-ch-ua-mobile: ?0
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54
+sec-ch-ua-arch: "x86"
+sec-ch-ua-full-version-list: "Chromium";v="104.0.5112.81", " Not A;Brand";v="99.0.0.0", "Microsoft Edge";v="104.0.1293.54"
+sec-ch-ua-platform-version: "10.0.0"
+sec-ch-ua-bitness: "64"
+sec-ch-ua-full-version: "104.0.1293.54"
+sec-ch-ua-platform: "Windows"
+accept: */*
+origin: https://www.bing.com
+x-edge-shopping-flag: 1
+sec-fetch-site: same-origin
+sec-fetch-mode: no-cors
+sec-fetch-dest: empty
+referer: https://www.bing.com/search?q=google&cvid=edd1749cc98b4317a67c489932674a3c&aqs=edge.0.69i59j69i60j69i65.964j0j1&pglt=43&FORM=ANNTA1&PC=U531
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en;q=0.9
+cookie: MUID=051C4AD1ECE969FE37075B3FED44688D; USRLOC=HS=1; SRCHD=AF=NOFORM; SRCHUID=V=2&GUID=C83CEDA2ECBC4674BA05732A7C9FBE25&dmnchg=1; MUIDB=051C4AD1ECE969FE37075B3FED44688D; ABDEF=V=13&ABDV=11&MRNB=1659534413346&MRB=0; _EDGE_S=SID=284CF2C8B4EB6AD80FE0E0CAB51C6B37; _SS=SID=3A6F13454CAF680E15A201474D586975&PC=U531; SRCHS=PC=U531; SRCHUSR=DOB=20220727&T=1660616244000; SRCHHPGUSR=SRCHLANG=en&PV=10.0.0&HV=1660616250&BRW=XW&BRH=M&CW=1536&CH=754&SW=1536&SH=864&DPR=1.25&UTC=330&DM=0&EXLTT=18&WTS=63796213044; ipv6=hit=1660619851712&t=6; _clck=1xm8xi1|1|f42|0; _clsk=1wn1ewp|1660616259911|1|1|d.clarity.ms/collect
+
+<ClientInstRequest><Events><E><T>Event.ClientInst</T><IG>97C1261C712244C3BBD1B81B2F0DF6EA</IG><TS>1660618988842</TS><D><![CDATA[[{"T":"CI.BoxModel","FID":"CI","Name":"v2.8","SV":"4","P":{"C":3,"N":14,"I":"2nc","S":"V","M":"V+L+M+MT+E+N+C+K+BD+BF","T":2744152,"K":"1mteg","F":1},"V":"1mtee/////////hidden/visibilitychange","M":"fs7+1r5+-1+1mteg+72+7s+0+4+0+3do+1","E":"@al/2/X/1o/+@al/3/X/28/+@al/3/Y/41/+@al/5/X/1o/+@al/6/X/1o/+@al/7/X/1o/+@al/8/X/1o/+@al/9/X/1o/+@al/a/X/1o/+@al/b/X/1o/+@al/c/X/1o/+@al/d/X/1o/+@al/e/X/1o/+@al/f/X/1o/+@al/g/X/1o/+@al/h/X/1o/+@al/i/X/2s/+@al/j/X/4y/+@al/k/X/4y/+@al/l/X/jq/"}]]]></D></E></Events><STS>1660618988842</STS></ClientInstRequest>

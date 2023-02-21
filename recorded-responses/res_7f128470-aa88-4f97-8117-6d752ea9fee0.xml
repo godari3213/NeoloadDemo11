@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Autodiscover xmlns="http://schemas.microsoft.com/exchange/autodiscover/responseschema/2006">
+  <Response xmlns="http://schemas.microsoft.com/exchange/autodiscover/outlook/responseschema/2006a">
+    <User>
+      <DisplayName>Godari, Srinivas</DisplayName>
+      <LegacyDN>/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=0c92a9e03c284576a41a9dbc53f87440-srinivas.go</LegacyDN>
+      <AutoDiscoverSMTPAddress>srinivas.godari@accenture.com</AutoDiscoverSMTPAddress>
+      <DeploymentId>046c2fbd-32ea-4e19-9ba7-87078d902d97</DeploymentId>
+    </User>
+    <Account>
+      <AccountType>email</AccountType>
+      <Action>settings</Action>
+      <MicrosoftOnline>True</MicrosoftOnline>
+      <ConsumerMailbox>False</ConsumerMailbox>
+      <Protocol Type="mapiHttp" Version="1">
+        <MailStore>
+          <ExternalUrl>https://myemail.accenture.com/mapi/emsmdb/?MailboxId=fd2afd14-c273-4344-9dde-0ce660fa0aaf@accenture.com</ExternalUrl>
+        </MailStore>
+        <AddressBook>
+          <ExternalUrl>https://myemail.accenture.com/mapi/nspi/?MailboxId=fd2afd14-c273-4344-9dde-0ce660fa0aaf@accenture.com</ExternalUrl>
+        </AddressBook>
+      </Protocol>
+      <Protocol>
+        <Type>WEB</Type>
+        <Internal>
+          <OWAUrl AuthenticationMethod="LiveIdFba, OAuth">https://myemail.accenture.com/owa/</OWAUrl>
+          <Protocol>
+            <Type>EXCH</Type>
+            <ASUrl>https://myemail.accenture.com/EWS/Exchange.asmx</ASUrl>
+          </Protocol>
+        </Internal>
+        <External>
+          <OWAUrl AuthenticationMethod="Fba">https://myemail.accenture.com/owa/accenture.com/</OWAUrl>
+          <Protocol>
+            <Type>EXPR</Type>
+            <ASUrl>https://myemail.accenture.com/EWS/Exchange.asmx</ASUrl>
+          </Protocol>
+        </External>
+      </Protocol>
+      <Protocol>
+        <Type>EXHTTP</Type>
+        <Server>myemail.accenture.com</Server>
+        <SSL>On</SSL>
+        <AuthPackage>Basic</AuthPackage>
+        <ASUrl>https://myemail.accenture.com/EWS/Exchange.asmx</ASUrl>
+        <EwsUrl>https://myemail.accenture.com/EWS/Exchange.asmx</EwsUrl>
+        <EmwsUrl>https://myemail.accenture.com/EWS/Exchange.asmx</EmwsUrl>
+        <SharingUrl>https://myemail.accenture.com/EWS/Exchange.asmx</SharingUrl>
+        <EcpUrl>https://myemail.accenture.com/owa/</EcpUrl>
+        <EcpUrl-um>?path=/options/callanswering</EcpUrl-um>
+        <EcpUrl-aggr>?path=/options/connectedaccounts</EcpUrl-aggr>
+        <EcpUrl-mt>options/ecp/PersonalSettings/DeliveryReport.aspx?rfr=olk&amp;exsvurl=1&amp;IsOWA=&lt;IsOWA&gt;&amp;MsgID=&lt;MsgID&gt;&amp;Mbx=&lt;Mbx&gt;&amp;realm=accenture.com</EcpUrl-mt>
+        <EcpUrl-ret>?path=/options/retentionpolicies</EcpUrl-ret>
+        <EcpUrl-sms>?path=/options/textmessaging</EcpUrl-sms>
+        <EcpUrl-photo>?path=/options/myaccount/action/photo</EcpUrl-photo>
+        <EcpUrl-connect>?path=/options/socialnetworks&amp;ignore1=&lt;Action&gt;&amp;ignore2=&lt;Provider&gt;</EcpUrl-connect>
+        <EcpUrl-tm>options/ecp/?rfr=olk&amp;ftr=TeamMailbox&amp;exsvurl=1&amp;realm=accenture.com</EcpUrl-tm>
+        <EcpUrl-tmCreating>options/ecp/?rfr=olk&amp;ftr=TeamMailboxCreating&amp;SPUrl=&lt;SPUrl&gt;&amp;Title=&lt;Title&gt;&amp;SPTMAppUrl=&lt;SPTMAppUrl&gt;&amp;exsvurl=1&amp;realm=accenture.com</EcpUrl-tmCreating>
+        <EcpUrl-tmEditing>options/ecp/?rfr=olk&amp;ftr=TeamMailboxEditing&amp;Id=&lt;Id&gt;&amp;exsvurl=1&amp;realm=accenture.com</EcpUrl-tmEditing>
+        <EcpUrl-extinstall>?path=/options/manageapps</EcpUrl-extinstall>
+        <OOFUrl>https://myemail.accenture.com/EWS/Exchange.asmx</OOFUrl>
+        <UMUrl>https://myemail.accenture.com/EWS/UM2007Legacy.asmx</UMUrl>
+        <OABUrl>https://myemail.accenture.com/OAB/2ba20366-028b-4abb-b87d-bf627747f5e4/</OABUrl>
+        <ServerExclusiveConnect>On</ServerExclusiveConnect>
+      </Protocol>
+      <AlternativeMailbox>
+        <Type>Archive</Type>
+        <DisplayName>In-Place Archive - srinivas.godari</DisplayName>
+        <SmtpAddress>ExchangeGuid+bd3e9753-d9ab-47a9-add0-82245c93e08a@accenture.com</SmtpAddress>
+        <OwnerSmtpAddress>srinivas.godari@accenture.com</OwnerSmtpAddress>
+      </AlternativeMailbox>
+    </Account>
+  </Response>
+</Autodiscover>

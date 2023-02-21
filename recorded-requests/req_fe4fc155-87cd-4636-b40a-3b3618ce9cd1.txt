@@ -1,0 +1,12 @@
+GET https://config.teams.microsoft.com/config/v1/MicrosoftTeams/27_1.0.0.0?environment=prod&audienceGroup=general&teamsRing=general&experience=cdl-worker&buildType=production&osPlatform=windows&id=1db71bde-cff0-4454-9889-9390feefda9f&aaduserid=1db71bde-cff0-4454-9889-9390feefda9f&tenantId=e0793d39-0939-496d-b129-198edd916feb&experienceBuild=22072600023&agents=TeamsNorthstar,TeamsBuilds,Segmentation HTTP/2.0
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Teams/1.5.00.21463 Chrome/85.0.4183.121 Electron/10.4.7 Safari/537.36
+if-none-match: "XlMUARX6VxW/C09nqbfyDjyqZks7cjR+ui1Mf/RNAMA="
+accept: */*
+origin: https://teams.microsoft.com
+sec-fetch-site: same-site
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://teams.microsoft.com/statics/hashed/precompiled-shared-worker-75876b9397463574.js
+accept-encoding: gzip, deflate, br
+accept-language: en-US
+

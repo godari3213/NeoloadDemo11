@@ -1,0 +1,25 @@
+POST https://noam.presence.teams.microsoft.com/v1/pubsub/subscriptions/76b108ce-ffff-ffff-6eb7-b7d66251a1b5 HTTP/2.0
+content-length: 1546
+x-ms-session-id: 295f438e-64b4-bcfe-0f9c-29c05db0fc65
+x-ms-endpoint-id: 76b108ce-ffff-ffff-6eb7-b7d66251a1b5
+behavioroverride: redirectAs404
+x-ms-scenario-id: 708
+x-ms-client-env: pds-prod-c1-asse-01
+x-ms-client-type: desktop
+authorization: Bearer eyJ0eXAiOiJKV1QiLCJub25jZSI6Ik5ycmpJZzdHbHI2NTNxXzd5SUxWdk00Rk5pdWVkVERPdEltSEdZWW5mdjQiLCJhbGciOiJSUzI1NiIsIng1dCI6IjJaUXBKM1VwYmpBWVhZR2FYRUpsOGxWMFRPSSIsImtpZCI6IjJaUXBKM1VwYmpBWVhZR2FYRUpsOGxWMFRPSSJ9.eyJhdWQiOiJodHRwczovL25vYW0ucHJlc2VuY2UudGVhbXMubWljcm9zb2Z0LmNvbS8iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC9lMDc5M2QzOS0wOTM5LTQ5NmQtYjEyOS0xOThlZGQ5MTZmZWIvIiwiaWF0IjoxNjYwNTc1NDg1LCJuYmYiOjE2NjA1NzU0ODUsImV4cCI6MTY2MDY1OTM4OSwiYWNyIjoiMSIsImFpbyI6IkFWUUFxLzhUQUFBQTl2MXZDM09xVUxXaHhLTVRVWVBPeGluNVEzdUlBYWVOMFJkakN6Uzhhak5zbFRHaFR3ZmxZOUM5WTVuNWxLL24vREZpVFhSMnBmV1g4am05VEErMGZZNFlSbnFLM3UrNTJacDQxU2sySEpzPSIsImFtciI6WyJyc2EiLCJtZmEiXSwiYXBwaWQiOiIxZmVjOGU3OC1iY2U0LTRhYWYtYWIxYi01NDUxY2MzODcyNjQiLCJhcHBpZGFjciI6IjAiLCJjbmYiOnsidGJoIjoibXVEa2JFVWgzeVhwbWtoUDByQk9MSkNncEx1OFJnMVYyeXpIbmp2RVhDaz0ifSwiZGV2aWNlaWQiOiI3YjI1ODBiYS0yZTk3LTQ3OGMtYjg5Zi1iOGE4MzJkMmRjYWEiLCJmYW1pbHlfbmFtZSI6IkdvZGFyaSIsImdpdmVuX25hbWUiOiJTcmluaXZhcyIsImlwYWRkciI6IjEwNi4yMDguMzguMjM4IiwibmFtZSI6IkdvZGFyaSwgU3Jpbml2YXMiLCJvaWQiOiIxZGI3MWJkZS1jZmYwLTQ0NTQtOTg4OS05MzkwZmVlZmRhOWYiLCJvbnByZW1fc2lkIjoiUy0xLTUtMjEtMzI5MDY4MTUyLTE0NTQ0NzExNjUtMTQxNzAwMTMzMy02NDY0NjUwIiwicHVpZCI6IjEwMDM3RkZFQTVDRTVBQkYiLCJwd2RfdXJsIjoiaHR0cHM6Ly9wb3J0YWwubWljcm9zb2Z0b25saW5lLmNvbS9DaGFuZ2VQYXNzd29yZC5hc3B4IiwicmgiOiIwLkFYc0FPVDE1NERrSmJVbXhLUm1PM1pGdjZ5Zk5jQjRIUjRsRmpzV2IwZ3hIS2taN0FFZy4iLCJzY3AiOiJQcmVzZW5jZVJXIiwic3ViIjoiX0xzUjI1MFNoNFJSa2NlUzMxbFpVNHlPT0x6UUJ0aVRlMGR2dUg3WmxhUSIsInRpZCI6ImUwNzkzZDM5LTA5MzktNDk2ZC1iMTI5LTE5OGVkZDkxNmZlYiIsInVuaXF1ZV9uYW1lIjoic3Jpbml2YXMuZ29kYXJpQGFjY2VudHVyZS5jb20iLCJ1cG4iOiJzcmluaXZhcy5nb2RhcmlAYWNjZW50dXJlLmNvbSIsInV0aSI6InNibm03NExyckVtRDFWOGhHQmhLQUEiLCJ2ZXIiOiIxLjAiLCJ4bXNfY2MiOlsiQ1AxIl0sInhtc19zc20iOiIxIn0.RzIYgbYqvtsSOWUJQz4grmXociwAKr9xQt_pE2iZ8Y6hFJRzmwPjJM1Bm2g7HycmFVl0jNrAyCgTt_D8VMmFEzA69rodRIeeeX1shoWuNxnnpmWmLlMfaUJhhYWqsednaqBctvyAnapJgCsYusPjMSj6RMTd9D6fKPIJ15oj2Sot2khSwYaGltwVHq0hIdUW-ztsVg4yvCMXCQdZxNw1ZVZasQ_rcumyo0qdGdOQzLIVpGoYlMtEg4yFkQc7QuV438ikABjMU6JFeQTo2qiKTkSzuH06UPM3BH0ztO1G42IP6_SZBuwvpIo5yQJ5k5K0v21LkCcAVKZfPYhqK3YzRw
+content-type: application/json
+accept: json
+x-ms-correlation-id: 90c660fa-8831-4856-b4e1-1b329e3be1e9
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Teams/1.5.00.21463 Chrome/85.0.4183.121 Electron/10.4.7 Safari/537.36
+x-ms-client-user-agent: Teams-Desktop
+x-ms-client-version: 27/1.0.0.2022072623
+x-ms-user-type: null
+origin: https://teams.microsoft.com
+sec-fetch-site: same-site
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+referer: https://teams.microsoft.com/_
+accept-encoding: gzip, deflate, br
+accept-language: en-US
+
+{"trouterUri":"https://trouter2-azsc-jpea-0-b.trouter.teams.microsoft.com:3443/v3/f/pN70wcoujkOJxH0Y-7S3Zw/TeamsUnifiedPresenceService","subscriptionsToAdd":[{"mri":"8:orgid:70a22ae6-0c4c-49ac-9e29-456cd86cf414"},{"mri":"8:orgid:1db71bde-cff0-4454-9889-9390feefda9f"},{"mri":"8:orgid:1641e3ed-58e7-431e-8d6b-78ebd4463db0"},{"mri":"8:orgid:66f44ec2-f90e-410c-9e7f-0cf3d9928622"},{"mri":"8:orgid:96959606-3090-4a61-970f-2a779bf024c3"},{"mri":"8:orgid:d6ac2dce-153a-48e3-8b75-9979ac31b2ee"},{"mri":"8:orgid:aabd6e79-4bad-4d1c-bc34-bdb8b66b5638"},{"mri":"8:orgid:bc997d42-6ab0-430c-84f5-d568535b1799"},{"mri":"8:orgid:026a554c-3599-49a9-ac4c-2cb9c51f35b7"},{"mri":"8:orgid:c12778f4-5bd0-4731-8344-05d7a9773a9f"},{"mri":"8:orgid:ad2e0c0f-859a-4129-9fbd-823b6e5d21d8"},{"mri":"8:orgid:9d51e73e-c322-4e7e-9448-5d4eff577298"},{"mri":"8:orgid:0e9e8a92-d1dc-4036-ac7c-ee1a464b7395"},{"mri":"8:orgid:262dec51-b89b-4798-960a-9be42070121a"},{"mri":"8:orgid:2bfba82b-a3d6-47be-990e-fa0f57aa62cd"},{"mri":"8:orgid:469f3ff5-9918-4ce0-b956-0faba4da3475"},{"mri":"8:orgid:a6757b3b-6f38-4b43-964e-86ac72dc9522"},{"mri":"8:orgid:02957387-0fc1-420d-86ba-6f2f4a30578b"},{"mri":"8:orgid:a897067d-862d-4ba1-b43a-1ba8fc216520"},{"mri":"8:orgid:bc1f9d53-fe37-45b6-8cef-ef03aa4170e3"},{"mri":"8:orgid:e24fe8ee-47c7-464c-9f75-eb57f9c2fabe"},{"mri":"8:orgid:ab5b3684-92a3-4daa-ad92-438bd755e2f6"},{"mri":"8:orgid:a47acaf8-0744-4d0f-a7f4-50cc72e1162f"},{"mri":"8:orgid:4ac77cc5-bbef-47c6-8216-fff9a9f5ea29"}],"subscriptionsToRemove":[],"shouldPurgePreviousSubscriptions":true}

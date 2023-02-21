@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<site-list version="102">
+  <created-by>
+    <tool>EMIESiteListManager</tool>
+    <version>12.0.0.0</version>
+    <date-created>04/04/2022 13:14:40</date-created>
+  </created-by>
+  <site url="ts.accenture.com/sites/IRL%20Government%20Business%20Development%20Support/default.aspx">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="ts.accenture.com/sites/Government%20Client%20Files/default.aspx">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="ts.accenture.com/sites/IRL_Resources/default.aspx">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="ts.accenture.com/sites/IRL_FinancialServices/default.aspx">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="ts.accenture.com/sites/IRL_Products/default.aspx">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="ts.accenture.com/sites/IRL_CHT/default.aspx">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+</site-list>
